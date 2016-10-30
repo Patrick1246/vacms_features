@@ -2,6 +2,8 @@
 Features for the upcoming VA CMS System
 # About
 I've created this repository in an effort to help future VA owners/users of the system submit their ideas and features they'd like to see implemented in the system. 
+# How to submit your input?
+Please use the ISSUES section for sending in your ideas.
 # What will already be included in the system?
 * Login System
 * User & UserGroup/Permission System 
